@@ -201,4 +201,5 @@ getgenv().gloryv2 = {
 }
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nicos0509thehoi-max/wdadjnasbdaknmsdasca/refs/heads/main/glory%20function"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/great-y/Functions/refs/heads/main/glory%20function.txt"))()
+
